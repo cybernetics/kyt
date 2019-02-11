@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-kyt",
-  "version": "1.0.0-alpha.0f174c7e",
+  "version": "1.0.0-alpha.95c0a776",
   "main": "stylelintrc.json",
   "description": "StyleLint configuration for kyt projects.",
   "author": "NYTimes",
