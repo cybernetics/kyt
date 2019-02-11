@@ -27,4 +27,6 @@ module.exports = (config, flags) => {
   child.spawn('jest', ['--config', JSON.stringify(jestConfig), ...flags], {
     stdio: 'inherit',
   });
+
+  child.on('exit', process.exit);
 };
