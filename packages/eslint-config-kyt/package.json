@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kyt",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.b92c3c7a",
   "description": "ESLint configuration for kyt projects.",
   "main": "eslintrc.json",
   "author": "NYTimes",
@@ -16,7 +16,6 @@
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-json": "1.3.2",
     "eslint-plugin-jsx-a11y": "6.2.0",
-    "eslint-plugin-kyt": "pre",
     "eslint-plugin-prettier": "3.0.1",
     "eslint-plugin-react": "7.12.4",
     "prettier": "1.16.1"

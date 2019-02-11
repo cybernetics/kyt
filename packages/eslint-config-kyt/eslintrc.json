@@ -6,7 +6,7 @@
     "browser": true
   },
 
-  "plugins": ["json", "prettier", "kyt"],
+  "plugins": ["json", "prettier"],
 
   "parser": "babel-eslint",
   "parserOptions": {
