@@ -68,7 +68,6 @@
         "singleQuote": true,
         "trailingComma": "es5"
       }
-    ],
-    "kyt/no-props-spread": 1
+    ]
   }
 }

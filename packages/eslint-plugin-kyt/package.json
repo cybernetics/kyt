@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kyt",
-  "version": "1.0.0-alpha.1f1364d1",
+  "version": "1.0.0-alpha.c1974764",
   "description": "ESLint plugin for kyt projects.",
   "main": "lib/index.js",
   "author": "NYTimes",
