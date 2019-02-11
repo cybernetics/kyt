@@ -8,6 +8,7 @@ var babelPresetKytCore = require('babel-preset-kyt-core');
 module.exports = function getPresetReact(context, opts) {
   var useProductionTransforms = true;
   var productionTransforms = [reactRemovePropTypes];
+  console.log('');
 
   opts = opts || {};
 
